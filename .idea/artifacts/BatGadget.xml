@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BatGadget">
+    <output-path>$PROJECT_DIR$/../../../Public/Documents/Central Servers/Lobby/plugins/</output-path>
+    <root id="archive" name="BatGadget.jar">
+      <element id="module-output" name="BatGadget" />
+      <element id="library" level="project" name="spigot" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
